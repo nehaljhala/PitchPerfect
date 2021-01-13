@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  PitchPerfect
 //
-//  Created by Vishalsinh Jhala on 1/7/21.
+//  Created by Nehal Jhala on 1/7/21.
 //
 
 import UIKit
